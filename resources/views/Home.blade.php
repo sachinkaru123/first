@@ -33,7 +33,7 @@
             <thead>
                 <div>
                     <div class="col-sm-12">
-                        <h1 class="text-center">Login pages</h1>
+                        <h1 class="text-center">Team meating</h1>
                     </div>
                 </div>
                 <tr class="row text-center">
