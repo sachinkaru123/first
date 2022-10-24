@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 //created controller
 class InterfaceController extends Controller
 {
-    public function indexHome2(){
+    public function indexhome2(){
         return view ('Home02');
     }
 
