@@ -10,4 +10,8 @@ class InterfaceController extends Controller
     public function indexHome2(){
         return view ('Home02');
     }
+
+    public function indexhome3(){
+        return view ('Home03');
+    }
 }
