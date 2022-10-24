@@ -30,7 +30,7 @@ Route::get('/', function () {
     return view('Home');
 });
 
-Route::get('/home2','InterfaceController@indexHome2');
+Route::get('/home2','InterfaceController@indexhome2');
 Route::get('/home3','InterfaceController@indexhome3');
 
 
