@@ -32,7 +32,5 @@ Route::get('/', function () {
 
 Route::get('/home2','InterfaceController@indexHome2');
 
-Route::get('/home3', function () {
-    return view('Home03');
-});
+
 
